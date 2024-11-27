@@ -6,7 +6,7 @@ using namespace std;
 
 struct TRAIN 
 {
-    string punct;
+    string punct;    // vbcfgdxsdjklhxdfdj//
     string trainNumber;
     string time;
 };
